@@ -1,6 +1,9 @@
 <h1 align="center">Object-Detection-With-Tensorflow-Using-VGG16</h1>
 
-![alt text](https://github.com/zubairsamo/Object-Detection-With-Tensorflow-Using-VGG16/blob/main/Image/Detect_image.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/zubairsamo/Object-Detection-With-Tensorflow-Using-VGG16/blob/main/Image/Detect_image.png">
+</p>
+
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
